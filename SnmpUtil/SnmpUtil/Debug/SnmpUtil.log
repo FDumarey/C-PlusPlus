@@ -1,0 +1,19 @@
+﻿  stdafx.cpp
+  SnmpUtil.cpp
+SnmpUtil.obj : error LNK2019: unresolved external symbol _SnmpUtilOidCpy@8 referenced in function _main
+SnmpUtil.obj : error LNK2019: unresolved external symbol _SnmpUtilOidNCmp@12 referenced in function _main
+SnmpUtil.obj : error LNK2019: unresolved external symbol _SnmpUtilOidFree@4 referenced in function _main
+SnmpUtil.obj : error LNK2019: unresolved external symbol _SnmpUtilVarBindFree@4 referenced in function _main
+SnmpUtil.obj : error LNK2019: unresolved external symbol _SnmpUtilVarBindListFree@4 referenced in function _main
+SnmpUtil.obj : error LNK2019: unresolved external symbol _SnmpUtilMemFree@4 referenced in function _main
+SnmpUtil.obj : error LNK2019: unresolved external symbol _SnmpUtilMemAlloc@4 referenced in function _main
+SnmpUtil.obj : error LNK2019: unresolved external symbol _SnmpUtilMemReAlloc@8 referenced in function _main
+SnmpUtil.obj : error LNK2019: unresolved external symbol _SnmpUtilPrintAsnAny@4 referenced in function _main
+SnmpUtil.obj : error LNK2019: unresolved external symbol _SnmpMgrOpen@16 referenced in function _main
+SnmpUtil.obj : error LNK2019: unresolved external symbol _SnmpMgrClose@4 referenced in function _main
+SnmpUtil.obj : error LNK2019: unresolved external symbol _SnmpMgrRequest@20 referenced in function _main
+SnmpUtil.obj : error LNK2019: unresolved external symbol _SnmpMgrStrToOid@8 referenced in function _main
+SnmpUtil.obj : error LNK2019: unresolved external symbol _SnmpMgrOidToStr@8 referenced in function _main
+SnmpUtil.obj : error LNK2019: unresolved external symbol _SnmpMgrTrapListen@4 referenced in function _main
+SnmpUtil.obj : error LNK2019: unresolved external symbol _SnmpMgrGetTrapEx@32 referenced in function _main
+d:\documents\visual studio 2015\Projects\SnmpUtil\Debug\SnmpUtil.exe : fatal error LNK1120: 16 unresolved externals
