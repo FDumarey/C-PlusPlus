@@ -2,7 +2,7 @@
 C++ code
 
 # Contents
-Different pieces of code, self made in **Visual C++ 2013/2015.**
+Different pieces of code, self made in **Visual C++ 2013/2015/2019.**
 I tried to document the code as much as possible for future reference.
 
 # Reference Sheet C++
