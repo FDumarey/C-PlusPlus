@@ -1,0 +1,6 @@
+﻿  TerminalApp.cpp
+D:\Documents\Visual Studio 2019\Projects\Screen0App\Screen0App\TerminalApp.cpp(379,24): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Documents\Visual Studio 2019\Projects\Screen0App\Screen0App\TerminalApp.cpp(399,24): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Documents\Visual Studio 2019\Projects\Screen0App\Screen0App\TerminalApp.cpp(405,24): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Documents\Visual Studio 2019\Projects\Screen0App\Screen0App\TerminalApp.cpp(429,24): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  Screen0App.vcxproj -> D:\Documents\Visual Studio 2019\Projects\Screen0App\x64\Debug\Screen0App.exe
